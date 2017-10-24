@@ -1,1 +1,0 @@
-# mfdgood.github.io
