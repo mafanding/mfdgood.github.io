@@ -32,3 +32,9 @@ only required to indent the first line. Lorem ipsum dolor
 sit amet, consectetuer adipiscing elit.
 >
 > *   Another item in the same list.
+
+Here is an example of AppleScript:
+
+    tell application "Foo"
+        beep
+    end tell
