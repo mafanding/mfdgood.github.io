@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Markdown syntax learning"
+date: 2017-10-27
+---
+
 This is an H1
 ===
 This is an H2
