@@ -52,3 +52,6 @@ Here is an example of AppleScript:
 This is [an example](http://example.com/ "Title") inline link.
 
 [This link](http://example.net/) has no title attribute.
+
+****
+> Reference infomation: [Markdown: Syntax](https://daringfireball.net/projects/markdown/syntax#overview "Markdown: Syntax").
