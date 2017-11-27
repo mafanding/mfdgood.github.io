@@ -33,7 +33,6 @@ code:
 
 abstract class Fruit
 {
-
     protected $name;
 
     public function getName()
