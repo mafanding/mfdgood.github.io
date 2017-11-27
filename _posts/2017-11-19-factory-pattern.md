@@ -30,7 +30,7 @@ date: 2017-11-19
 
 # 简单工厂的实现 #
 code:
-
+```php
 abstract class Fruit
 {
     protected $name;
@@ -76,5 +76,5 @@ class FruitFactory
         return $fruit;
     }
 }
-
+```
 end
