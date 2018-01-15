@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: translation
 title: "MD5信息摘要算法"
 date: 2018-01-15
 ---
