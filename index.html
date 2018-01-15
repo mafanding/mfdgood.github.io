@@ -10,9 +10,3 @@ translate: translation
                     <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
               {% endfor %} 
         </ul>
-    <h1>{{ page.translate }}</h1>
-        <ul class="translations">
-              {% for translation in site.translations %}
-                    <li><span>{{ translation.date | date_to_string }}</span> » <a href="{{ translation.url }}" title="{{ translation.title }}">{{ post.title }}</a></li>
-              {% endfor %} 
-        </ul>

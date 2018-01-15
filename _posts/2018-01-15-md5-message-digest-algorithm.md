@@ -1,6 +1,6 @@
 ---
 layout: translation
-title: "MD5信息摘要算法"
+title: "翻译-MD5信息摘要算法"
 date: 2018-01-15
 ---
 
